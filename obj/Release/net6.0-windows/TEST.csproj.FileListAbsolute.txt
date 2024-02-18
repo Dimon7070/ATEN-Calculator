@@ -1,0 +1,16 @@
+F:\Users\Dimon\Source\Repos\TEST\bin\Release\net6.0-windows\TEST.exe
+F:\Users\Dimon\Source\Repos\TEST\bin\Release\net6.0-windows\TEST.deps.json
+F:\Users\Dimon\Source\Repos\TEST\bin\Release\net6.0-windows\TEST.runtimeconfig.json
+F:\Users\Dimon\Source\Repos\TEST\bin\Release\net6.0-windows\TEST.dll
+F:\Users\Dimon\Source\Repos\TEST\bin\Release\net6.0-windows\TEST.pdb
+F:\Users\Dimon\Source\Repos\TEST\obj\Release\net6.0-windows\TEST.Form1.resources
+F:\Users\Dimon\Source\Repos\TEST\obj\Release\net6.0-windows\TEST.csproj.GenerateResource.cache
+F:\Users\Dimon\Source\Repos\TEST\obj\Release\net6.0-windows\TEST.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\Dimon\Source\Repos\TEST\obj\Release\net6.0-windows\TEST.AssemblyInfoInputs.cache
+F:\Users\Dimon\Source\Repos\TEST\obj\Release\net6.0-windows\TEST.AssemblyInfo.cs
+F:\Users\Dimon\Source\Repos\TEST\obj\Release\net6.0-windows\TEST.csproj.CoreCompileInputs.cache
+F:\Users\Dimon\Source\Repos\TEST\obj\Release\net6.0-windows\TEST.dll
+F:\Users\Dimon\Source\Repos\TEST\obj\Release\net6.0-windows\refint\TEST.dll
+F:\Users\Dimon\Source\Repos\TEST\obj\Release\net6.0-windows\TEST.pdb
+F:\Users\Dimon\Source\Repos\TEST\obj\Release\net6.0-windows\TEST.genruntimeconfig.cache
+F:\Users\Dimon\Source\Repos\TEST\obj\Release\net6.0-windows\ref\TEST.dll
