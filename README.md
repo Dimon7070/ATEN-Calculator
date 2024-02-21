@@ -16,6 +16,9 @@ Input the seed and last MAC octet into the program
 Click Generate button
 
 The tool will generate ATEN command with corresponding password.
+
+![Usage](Usage1.png)
+
 ## Building
 Clone or download the repository to your local machine.
 
